@@ -10,7 +10,7 @@ The **TypeScript Vehicle Builder** is a command-line application that enables us
 - [Usage](#usage)
 - [Vehicles](#vehicles)
 - [Demo](#demo)
-- [Contribute](#contribute)
+- [Contributions](#contributions)
 - [License](#license)
 
 
@@ -45,7 +45,7 @@ The **TypeScript Vehicle Builder** is a command-line application that enables us
    - Select an existing vehicle from the list.
    - Perform actions unique to the chosen vehicle.
 
-## Vehicle Classes and Attributes
+## Vehicles
 ### Car
 - **Attributes:** Make, Model, Year, Color
 - **Actions:** Honk, Drive
@@ -69,7 +69,7 @@ Watch the [walkthrough video](<insert-video-link-here>) to see the application i
 - Entering responses to the prompts.
 - Demonstrating functionality for cars, trucks, and motorbikes.
 
-## Contribution Guidelines
+## Contributions
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
 ## License
