@@ -23,7 +23,7 @@ The **TypeScript Vehicle Builder** is a command-line application that enables us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/AjaxTheRoo/vehicle-builder.git>
    ```
 2. Navigate to the project directory:
    ```bash
@@ -64,7 +64,7 @@ The **TypeScript Vehicle Builder** is a command-line application that enables us
 - **Node.js**: For running the command-line application.
 
 ## Demo
-Watch the [walkthrough video](<insert-video-link-here>) to see the application in action, including:
+Watch the [walkthrough video](<https://drive.google.com/file/d/1QuZQ3WTYIe64xOfe71Kt7P_WMnscPvf-/view>) to see the application in action, including:
 - How to invoke the application.
 - Entering responses to the prompts.
 - Demonstrating functionality for cars, trucks, and motorbikes.
